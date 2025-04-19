@@ -14,7 +14,7 @@ function Home() {
             width={380}
             height={380}
         ></Image>
-        <h1>As pessoas boas devem amsar seus inimigos</h1>
+        <h1>As pessoas boas devem amar seus inimigos</h1>
     </div>
 
 }
